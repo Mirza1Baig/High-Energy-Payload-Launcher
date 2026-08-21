@@ -38,8 +38,8 @@ Report on the following:
 ### How to Submit
 Here is a step by step guide to submit your work:
 1. Put all the deliverables in a google drive folder and share that folder with the following emails:
-    arc@hyderabad.bits-pilani.ac.in
-    f20250026@hyderabad.bits-pilani.ac.in
-    f20250009@hyderabad.bits-pilani.ac.in
+    arc@hyderabad.bits-pilani.ac.in     
+    f20250026@hyderabad.bits-pilani.ac.in      
+    f20250009@hyderabad.bits-pilani.ac.in     
 2. make a pull request with the link on this repository, (DO NOT MAKE THE PULL REQUEST ON THE MAIN REPOSITORY)
 3. If you want to explain the challenges you faced and some cool features about your catapult, feel free to mention in the pull request.
