@@ -1,0 +1,14 @@
+Google Drive Link: https://drive.google.com/drive/folders/1MGiOpg93SpMkvB2MRJ3GywpfsR2cqSH9?usp=sharing
+
+Drive link for Payload Launcher(catapult) Attached above.
+Took inspiration for shape of throwing arm from the suspension wishbones of a car.
+Used Polyethylene sheets as padding at the contact surface upon impact to reduce the sudden impulse and provide coushioning.
+Hooks and joints are of high-strength structural steel and general body is Aluminum 6061 T6.
+The base plate was fully constrained to isolate the structural stress analysis of the primary throwing arm and tower, 
+under the assumption of continuous, rigid anchor fixing the base to the ground.
+Mechanism includes:
+1. Spring pulling the throwing arm while loading.
+2. Hook attached to throwing arm which keeps the arm at rest after loading
+3. Lever attached to the hook, on pulling lever, force due to spring rotates the arm.
+4. Arm is stopped by a tower at around 90 degrees which launches the 10kg payload at 10m/s speed.
+5. Stopped is a big structure reinforced by triangular beams to distribute force and reduce bulkiness.
